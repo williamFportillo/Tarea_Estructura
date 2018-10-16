@@ -1,0 +1,3 @@
+C:/Users/WilliamPC/CLionProjects/Algoritmo_sumaNumerosNaturales/cmake-build-debug/CMakeFiles/Algoritmo_sumaNumerosNaturales.dir
+C:/Users/WilliamPC/CLionProjects/Algoritmo_sumaNumerosNaturales/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/WilliamPC/CLionProjects/Algoritmo_sumaNumerosNaturales/cmake-build-debug/CMakeFiles/rebuild_cache.dir

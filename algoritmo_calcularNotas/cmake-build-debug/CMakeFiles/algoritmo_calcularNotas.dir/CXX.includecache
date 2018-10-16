@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/WilliamPC/CLionProjects/algoritmo_calcularNotas/main.cpp
+iostream
+-
+stdio.h
+-
+conio.h
+-
+

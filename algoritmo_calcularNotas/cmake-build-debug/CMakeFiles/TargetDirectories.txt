@@ -1,0 +1,3 @@
+C:/Users/WilliamPC/CLionProjects/algoritmo_calcularNotas/cmake-build-debug/CMakeFiles/algoritmo_calcularNotas.dir
+C:/Users/WilliamPC/CLionProjects/algoritmo_calcularNotas/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/WilliamPC/CLionProjects/algoritmo_calcularNotas/cmake-build-debug/CMakeFiles/rebuild_cache.dir

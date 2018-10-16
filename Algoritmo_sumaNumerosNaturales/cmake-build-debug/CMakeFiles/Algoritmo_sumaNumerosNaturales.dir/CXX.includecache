@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/WilliamPC/CLionProjects/Algoritmo_sumaNumerosNaturales/main.cpp
+conio.h
+-
+stdio.h
+-
+
